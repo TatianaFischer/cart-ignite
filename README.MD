@@ -83,6 +83,10 @@ To install the dependencies and start the project, you can use Yarn ou NPM:
   ❯ npm start
 ```
 
+To uses the fake API with JSON Server:
+```
+yarn server
+```
 
 
 
